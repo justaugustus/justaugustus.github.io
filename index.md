@@ -14,3 +14,11 @@ This page was created to test the functionality of GitHub Pages and hopefully us
 While I'm writing this out in a lovely Markdown window right now, the goal is for the sophistication of the blog to grow as I learn more.
 
 Stay tuned and stay in touch! (There are links in the top-right to follow me online.)
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
