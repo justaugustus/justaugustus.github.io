@@ -8,7 +8,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : print juSt.Augustus() => 'Stephen Augustus'
+title : Stephen Augustus
 tagline: ...the life and times of a sysadmin learning to program.
 author :
   name : Stephen Augustus
