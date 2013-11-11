@@ -2,6 +2,7 @@
 http://justaugustus.github.io/archive.html
 http://justaugustus.github.io/atom.xml
 http://justaugustus.github.io/categories.html
+http://justaugustus.github.io/index copy.html
 http://justaugustus.github.io/index.html
 http://justaugustus.github.io/pages.html
 http://justaugustus.github.io/rss.xml

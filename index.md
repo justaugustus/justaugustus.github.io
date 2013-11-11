@@ -1,46 +1,16 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: juSt.Augustus()
+tagline: ...the life and times of a sysadmin learning to program.
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## Why hello there!
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+You've stumbled upon one of my many corners of the internet.
 
-## Update Author Attributes
+This page was created to test the functionality of GitHub Pages and hopefully use it as a viable blog platform. There's going to be fun stuff like testing out Jekyll (a static page generator), editing DNS records, interesting tech-related news I crawl across and feedback from meetups I attend.
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+While I'm writing this out in a lovely Markdown window right now, the goal is for the sophistication of the blog to grow as I learn more.
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+Stay tuned and stay in touch! (There are links in the top-right to follow me online.)
